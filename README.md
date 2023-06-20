@@ -27,4 +27,4 @@ The project contains the following files:
 Completing this challenge was a great opportunity for me to demonstrate my knowledge of JavaScript and HTML so for the few weeks so far. I had fun working on the different tasks and I look forward to building more projects using JavaScript.
 
 ## Author & License
-https://raw.githubusercontent.com/Mwasigwa2/codechallenge/master/LICENSE?token=GHSAT0AAAAAACDVFEFRS77Y77JQEGM5TWDOZERLZLA
+LICENSE.txt
