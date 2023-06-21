@@ -13,7 +13,7 @@ Replit (to run my tests using node.js)
 
 ## How to Run Code
 
-1.git clone the repository to your local machine using the command 
+<br /> .git clone the repository to your local machine using the command 
 git clone 
 (which is accessed by clicking the code button and copying the SSH)
 2. Navigate to the project using the command cd (ie. cd codechallenge)
