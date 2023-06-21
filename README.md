@@ -24,26 +24,20 @@ The challenge required me to demonstrate my knowledge of JavaScript by completin
 
 ```
 $ 'git clone' git@github.com:Mwasigwa2/codechallenge.git
-
 ```
 
 **Navigate to the project using the command cd**
 ```
-
 $ 'cd codechallenge'
-
 ```
 **Install the necessary dependencies required**
 ```
-
 $ 'npm install'
 ```
 
 **Run the code using the command code . on your terminal**
 ```
-
 $ code .
-
 ```
 
 ## Technologies Used
