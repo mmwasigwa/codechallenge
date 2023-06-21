@@ -16,6 +16,19 @@ The challenge was mainly based on JavaScript, so I used the following technologi
 - JavaScript
 - Replit (to run my tests using node.js)
 
+## How To Run
+1. Clone the repository to your local machine using the command
+
+   git clone git@github.com:Mwasigwa2/codechallenge.git 
+   
+   (which is accessed by clicking the code button and copying the SSH)
+
+2. Navigate to the project using the command cd  (ie cd codechallenge)
+
+3. Install necessary dependencies using the command npm install
+
+4. Run the code by inputing the command code . on your terminal
+
 ## Project Setup
 
 The project contains the following files:
