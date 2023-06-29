@@ -3,7 +3,7 @@ This repository contains my submission for the school code challenge week 1 whic
 
 ## Table of Content
 - [Description](https://github.com/Mwasigwa2/codechallenge#code-challenge-description)
-- [Installation Requirements](https://github.com/Mwasigwa2/codechallenge#installation-process)
+- [Installation](https://github.com/Mwasigwa2/codechallenge#installation-process)
 - [Technology Used](https://github.com/Mwasigwa2/codechallenge#installation-process)
 - [Project Structure](https://github.com/Mwasigwa2/codechallenge#installation-process)
 - [License](https://github.com/Mwasigwa2/codechallenge#installation-process)
