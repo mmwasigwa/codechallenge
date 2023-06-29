@@ -1,4 +1,4 @@
-## Title - School Code Challenge - JavaScript
+##  School Code Challenge - JavaScript
 This repository contains my submission for the school code challenge week 1 which was mainly based on Javascript
 
 ## Table of Content
