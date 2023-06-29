@@ -2,13 +2,12 @@
 This repository contains my submission for the school code challenge week 1 which was mainly based on Javascript
 
 ## Table of Content
-- Description
-- Installation Requirements
-- Technology Used
-- Project Structure
-- Reference
-- License
-- Authors Info
+- [Description](https://github.com/Mwasigwa2/codechallenge#code-challenge-description)
+- [Installation Requirements](https://github.com/Mwasigwa2/codechallenge#installation-process)
+- [Technology Used](https://github.com/Mwasigwa2/codechallenge#installation-process)
+- [Project Structure](https://github.com/Mwasigwa2/codechallenge#installation-process)
+- [License](https://github.com/Mwasigwa2/codechallenge#installation-process)
+- [Authors Info](https://github.com/Mwasigwa2/codechallenge#installation-process)
 
 ## Code Challenge Description
 The challenge required me to demonstrate my knowledge of JavaScript by completing a set of coding tasks divided into three questions.
@@ -16,7 +15,7 @@ The challenge required me to demonstrate my knowledge of JavaScript by completin
 ## Installation
 ## Requirements 
 - Either a computer,phone,tablet or an Ipad
-- An access to the Internet
+- Access to the Internet
 
 ## Installation Process
 
