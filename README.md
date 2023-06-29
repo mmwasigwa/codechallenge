@@ -7,7 +7,7 @@ This repository contains my submission for the school code challenge week 1 whic
 - [Installation Process](https://github.com/Mwasigwa2/codechallenge#installation-process)
 - [Technology Used](https://github.com/Mwasigwa2/codechallenge#installation-process)
 - [Project Structure](https://github.com/Mwasigwa2/codechallenge#installation-process)
-- [License](https://github.com/Mwasigwa2/codechallenge#installation-process)
+- [License](https://github.com/Mwasigwa2/codechallenge#license)
 - [Authors Info](https://github.com/Mwasigwa2/codechallenge#installation-process)
 
 ## Code Challenge Description
